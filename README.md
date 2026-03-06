@@ -19,7 +19,7 @@ The dashboard provides insights into product categories including Bikes, Clothin
 ## Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/Dashboard_overview.png)
+![Dashboard Overview](Screenshots/Dashboard_Overview.png)
 
 ### Country Wise Revenue Analysis
 ![Country Revenue](Screenshots/Country_wise_periodic_revenue.png)
@@ -31,7 +31,7 @@ The dashboard provides insights into product categories including Bikes, Clothin
 ![Data Model](Screenshots/Data_modeling.png)
 
 ### Product Drill Through Analysis
-![Product Drillthrough](Screenshots/Product_drillthrough.png)
+![Product Drillthrough](Screenshots/Product_drill_through.png)
 
 ### Revenue by Category
 ![Revenue by Category](Screenshots/Revenue_by_Category.png)
