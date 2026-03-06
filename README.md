@@ -19,22 +19,22 @@ The dashboard provides insights into product categories including Bikes, Clothin
 ## Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/Dashboard_overview.png)
 
 ### Country Wise Revenue Analysis
-![Country Revenue](Screenshots/country_revenue.png)
+![Country Revenue](Screenshots/Country_wise_periodic_revenue.png)
 
 ### Customer Sales Report
-![Customer Sales](Screenshots/customer_sales.png)
+![Customer Sales](Screenshots/Customer_sales_report.png)
 
 ### Data Model
-![Data Model](Screenshots/data_modeling.png)
+![Data Model](Screenshots/Data_modeling.png)
 
 ### Product Drill Through Analysis
-![Product Drillthrough](Screenshots/product_drillthrough.png)
+![Product Drillthrough](Screenshots/Product_drillthrough.png)
 
 ### Revenue by Category
-![Revenue by Category](Screenshots/revenue_by_category.png)
+![Revenue by Category](Screenshots/Revenue_by_Category.png)
 
 ---
 
@@ -48,3 +48,4 @@ The dashboard provides insights into product categories including Bikes, Clothin
 
 ## Dataset
 AdventureWorks Sales Dataset
+
